@@ -34,7 +34,7 @@ Feel free to explore my portfolio to see some of the projects I've worked on.
 
 ## Blog 📝
 
-- cwwright1229.wordpress.com
+- [Blog](https://cwwright1229.wordpress.com)
 
 ## Contact Information 📫
 
