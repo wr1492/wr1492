@@ -22,6 +22,42 @@ Feel free to explore my portfolio to see some of the projects I've worked on.
 - [x] [Foundations of data science for machine learning] - Completed on 4/24/2023
 - [x] [Create machine learning models] - Completed on 4/24/2023
 
+<table>
+<tr>
+<td>
+<figure>
+<img src="./images/Kidd1492 - Feature Engineering.png" width="100" height="100" align="center">
+<figcaption><br>Feature Engineering</figcaption>
+</figure>
+</td>
+<td>
+<figure>
+<img src="./images/Kidd1492 - Intro to Machine Learning.png" width="100" height="100" align="center">
+<figcaption><br>Machine Learning</figcaption>
+</figure>
+</td>
+<td>
+<figure>
+<img src="./images/Kidd1492 - Intro to Programming.png" width="100" height="100" align="center">
+<figcaption><br>Programming</figcaption>
+</figure>
+</td>
+<td>
+<figure>
+<img src="./images/Kidd1492 - Pandas.png" width="100" height="100" align="center">
+<figcaption><br>Pandas</figcaption>
+</figure>
+</td>
+<td>
+<figure>
+<img src="./images/Kidd1492 - Python.png" width="100" height="100" align="center">
+<figcaption><br>Python</figcaption>
+</figure>
+</td>
+</tr>
+</table>
+
+
 
 ## Skills 🛠️
 
